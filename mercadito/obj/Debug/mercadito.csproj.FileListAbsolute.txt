@@ -1,0 +1,15 @@
+C:\Users\usuario\source\repos\mercadito\bin\Debug\mercadito.exe.config
+C:\Users\usuario\source\repos\mercadito\bin\Debug\mercadito.exe
+C:\Users\usuario\source\repos\mercadito\bin\Debug\mercadito.pdb
+C:\Users\usuario\source\repos\mercadito\obj\Debug\mercadito.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\mercadito\obj\Debug\mercadito.inicio.resources
+C:\Users\usuario\source\repos\mercadito\obj\Debug\mercadito.Form2.resources
+C:\Users\usuario\source\repos\mercadito\obj\Debug\mercadito.Properties.Resources.resources
+C:\Users\usuario\source\repos\mercadito\obj\Debug\mercadito.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\mercadito\obj\Debug\mercadito.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\mercadito\obj\Debug\mercadito.exe
+C:\Users\usuario\source\repos\mercadito\obj\Debug\mercadito.pdb
+C:\Users\usuario\source\repos\mercadito\obj\Debug\mercadito.Form3.resources
+C:\Users\usuario\source\repos\mercadito\obj\Debug\mercadito.Form4.resources
+C:\Users\usuario\source\repos\mercadito\obj\Debug\mercadito.Form5.resources
+C:\Users\usuario\source\repos\mercadito\obj\Debug\mercadito.Form6.resources
